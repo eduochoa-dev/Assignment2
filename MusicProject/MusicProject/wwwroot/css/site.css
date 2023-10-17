@@ -1,0 +1,26 @@
+html {
+    font-size: 14px;
+    color: #1DB954;
+    background-color: #191414;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+        color: #1DB954;
+        background-color: #191414;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    color: #1DB954;
+    background-color: #191414;
+}
+
+body {
+    margin-bottom: 60px;
+    color: #1DB954;
+    background-color: #191414;
+}
